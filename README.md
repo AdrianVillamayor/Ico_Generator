@@ -1,6 +1,8 @@
 # Icon_Generator
 
-Sass icon generator with bash
+Sass icon generator with bash.
+
+The only thing is to change the url where the information is collected.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
